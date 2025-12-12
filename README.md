@@ -3,3 +3,5 @@ cloud system and experiment with how different dynamic load‑balancing algorith
 in real time to improve performance and resource utilization. You can treat it as a mini lab where you 
 generate jobs, route them to servers with various strategies, and observe metrics like response time, 
 throughput, and CPU utilization.
+
+Core idea
