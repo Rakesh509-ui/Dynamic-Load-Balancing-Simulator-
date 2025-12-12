@@ -13,4 +13,8 @@ Key concepts your content can cover:
 -> System model: set of processing elements (servers/VMs/cores), each with its own processing speed and queue.
 -> Dynamic decisions: when to migrate tasks, which node to pick, how many tasks to move, and which exact  
    tasks to move.
+•	This project focuses on dynamically distributing tasks among multiple processors for better performance.
+•	The system continuously checks processor load and balances work in real time.
+•	It improves resource utilization, reduces waiting time, and increases overall efficiency.
+
 
