@@ -11,4 +11,6 @@ real hardware, which is very useful for research and B.Tech‑level projects.
 
 Key concepts your content can cover:
 -> System model: set of processing elements (servers/VMs/cores), each with its own processing speed and queue.
+-> Dynamic decisions: when to migrate tasks, which node to pick, how many tasks to move, and which exact  
+   tasks to move.
 
