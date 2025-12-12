@@ -10,3 +10,5 @@ instead of fixing the mapping beforehand. A simulator lets you replay many “wh
 real hardware, which is very useful for research and B.Tech‑level projects.
 
 Key concepts your content can cover:
+-> System model: set of processing elements (servers/VMs/cores), each with its own processing speed and queue.
+
