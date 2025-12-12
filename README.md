@@ -5,3 +5,6 @@ generate jobs, route them to servers with various strategies, and observe metric
 throughput, and CPU utilization.
 
 Core idea
+Dynamic load balancing means the system decides during runtime how to distribute tasks based on current load,
+instead of fixing the mapping beforehand. A simulator lets you replay many “what if” scenarios without needing 
+real hardware, which is very useful for research and B.Tech‑level projects.
